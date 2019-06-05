@@ -1,0 +1,65 @@
+.top{
+	background-color: black;
+	height: 100px;
+}
+.logo{
+	height: 100px;
+	margin-left: 50px;
+}
+.main{
+	background-color: #ffed89;
+	padding-top: 50px;
+}
+.flex{
+	display: flex;
+}
+.img{
+	height: 300px;
+	width: 500px;
+}
+.img:hover{
+	transition: 0.5s;
+	height: 320px;
+	width: 520px;
+}
+.text{
+	text-align: center;
+	font-family: arial;
+	color: white;
+}
+.info{
+	margin-left: 150px;
+}
+.text2{
+	color: white;
+	margin-top: 30px;
+	margin-left: 800px;
+	font-family: arial;
+	font-size: 25px;
+	font-weight: 10;
+	text-decoration: none;
+}
+.mleft{
+	margin-left: 40px;
+}
+.img2{
+	height: 300px;
+	width: 300px;
+}
+.img2:hover{
+	transition: 0.5s;
+	height: 320px;
+	width: 320px;
+}
+.menu{
+	width: 860px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 40px;
+}
+.mleft2{
+	margin-left: 80px;
+}
+.pizza{
+	width: 860px;
+}
